@@ -1,3 +1,4 @@
 sample	status	group
 clinical-variant-triage-01	ready	control
 clinical-variant-triage-02	review	case
+clinical-variant-triage-03	queued	validation
